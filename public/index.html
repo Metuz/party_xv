@@ -17,7 +17,6 @@
         <meta name="twitter:data1" content="5 minutos">
         <link rel="dns-prefetch" href="//fonts.googleapis.com">
         <style id="joinchat-button-style-inline-css" >
-          
         </style>
         <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin="">
         <script
@@ -25,6 +24,10 @@
             type="text/javascript"
             src="https://invites-now.com/wp-includes/js/jquery/jquery.min.js"
             id="jquery-core-js">
+        </script>
+        <script
+          type="text/javascript"
+          src="timer.js">
         </script>
         <meta
             name="generator"
@@ -560,7 +563,7 @@
                                 <div class="elementor-widget-container">
                                     <div class="elementor-countdown-wrapper" data-date="1680390000">
                                         <div class="elementor-countdown-item">
-                                            <span class="elementor-countdown-digits elementor-countdown-days">
+                                            <span class="elementor-countdown-digits elementor-countdown-days" id="days">
                                                 00
                                             </span>
                                             <span class="elementor-countdown-label">
@@ -568,7 +571,7 @@
                                             </span>
                                         </div>
                                         <div class="elementor-countdown-item">
-                                            <span class="elementor-countdown-digits elementor-countdown-hours">
+                                            <span class="elementor-countdown-digits elementor-countdown-hours" id="hours">
                                                 00
                                             </span>
                                             <span class="elementor-countdown-label">
@@ -576,7 +579,7 @@
                                             </span>
                                         </div>
                                         <div class="elementor-countdown-item">
-                                            <span class="elementor-countdown-digits elementor-countdown-minutes">
+                                            <span class="elementor-countdown-digits elementor-countdown-minutes" id="minutes">
                                                 00
                                             </span>
                                             <span class="elementor-countdown-label">
@@ -584,7 +587,7 @@
                                             </span>
                                         </div>
                                         <div class="elementor-countdown-item">
-                                            <span class="elementor-countdown-digits elementor-countdown-seconds">
+                                            <span class="elementor-countdown-digits elementor-countdown-seconds" id="seconds">
                                                 00
                                             </span>
                                             <span class="elementor-countdown-label">
