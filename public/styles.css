@@ -1811,10 +1811,6 @@ body {
 .elementor-form .elementor-button .e-font-icon-svg {
     height: 1em;
 }
-
-
-
-@charset "UTF-8";
 address,
 blockquote,
 body,
@@ -8113,8 +8109,6 @@ button.swiper-pagination-bullet {
 .elementor-element {
   --widgets-spacing: 15px;
 }
- {
-}
 h1.entry-title {
   display: var(--page-title-display);
 }
@@ -9181,12 +9175,20 @@ h1.entry-title {
 .elementor-37116
   .elementor-element.elementor-element-c37fd35
   > .elementor-background-overlay {
-  background-image: url("https://invites-now.com/wp-content/uploads/2023/02/background-lila-destellos-3.png");
+  background-image: url("../6884914.jpg");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
-  opacity: 0.3;
+  opacity: 0.8;
   transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+.red-text-90091 {
+  color: #90091d;
+  font-size: 1.3em !important;
+  font-weight: 400 !important;
+}
+.red-text-96{
+  color: #962234
 }
 .elementor-bc-flex-widget
   .elementor-37116
@@ -9221,7 +9223,7 @@ h1.entry-title {
 }
 .elementor-37116 .elementor-element.elementor-element-8706bfc {
   --divider-border-style: solid;
-  --divider-color: #9d70be;
+  --divider-color: #962234;
   --divider-border-width: 1.5px;
 }
 .elementor-37116
@@ -9281,7 +9283,7 @@ h1.entry-title {
 }
 .elementor-37116 .elementor-element.elementor-element-aae803a {
   --divider-border-style: solid;
-  --divider-color: #9d70be;
+  --divider-color: #962234;
   --divider-border-width: 1.5px;
 }
 .elementor-37116
@@ -9438,11 +9440,11 @@ body.rtl
 .elementor-37116
   .elementor-element.elementor-element-358aa30
   > .elementor-background-overlay {
-  background-image: url("https://invites-now.com/wp-content/uploads/2023/02/background-lila-destellos-3.png");
+  background-image: url("../6884914.jpg");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
-  opacity: 0.3;
+  opacity: 0.8;
   transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
 }
 .elementor-37116 .elementor-element.elementor-element-358aa30 {
@@ -9506,7 +9508,7 @@ body.rtl
 }
 .elementor-37116 .elementor-element.elementor-element-c2f5271 {
   text-align: center;
-  color: #000000;
+  color: #052c53;
   font-family: "Montserrat", belleza;
   font-size: 18px;
   font-weight: 400;
@@ -9524,7 +9526,7 @@ body.rtl
 .elementor-37116
   .elementor-element.elementor-element-7ce26ec
   .elementor-heading-title {
-  color: #9d70be;
+  color: #90091d;
   font-family: "Montserrat", belleza;
   font-size: 18px;
   letter-spacing: 1px;
@@ -9535,7 +9537,7 @@ body.rtl
 .elementor-37116
   .elementor-element.elementor-element-4221f1f
   .elementor-heading-title {
-  color: #9d70be;
+  color: #90091d;
   font-family: "Montserrat", belleza;
   font-size: 18px;
   letter-spacing: 1px;
@@ -9549,7 +9551,7 @@ body.rtl
 .elementor-37116
   .elementor-element.elementor-element-dc76620
   .elementor-heading-title {
-  color: #000000;
+  color: #052c53;
   font-family: "Montserrat", belleza;
   font-size: 18px;
 }
@@ -9559,7 +9561,7 @@ body.rtl
 .elementor-37116
   .elementor-element.elementor-element-d07e6d5
   .elementor-heading-title {
-  color: #9d70be;
+  color: #90091d;
   font-family: "Montserrat", belleza;
   font-size: 18px;
   letter-spacing: 1px;
@@ -9575,7 +9577,7 @@ body.rtl
 .elementor-37116
   .elementor-element.elementor-element-4abd88c
   .elementor-heading-title {
-  color: #9d70be;
+  color: #90091d;
   font-family: "Montserrat", belleza;
   font-size: 18px;
   letter-spacing: 1px;
@@ -9598,11 +9600,11 @@ body.rtl
 .elementor-37116
   .elementor-element.elementor-element-24122c1
   > .elementor-background-overlay {
-  background-image: url("https://invites-now.com/wp-content/uploads/2023/02/background-lila-destellos-3.png");
+  background-image: url("../6884914.jpg");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
-  opacity: 0.3;
+  opacity: 0.8;
   transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
 }
 .elementor-37116 .elementor-element.elementor-element-24122c1 {
@@ -9632,7 +9634,7 @@ body.rtl
 .elementor-37116
   .elementor-element.elementor-element-e9f749d
   .elementor-heading-title {
-  color: #9d70be;
+  color: #90091d;
   font-family: "Dancing Script", belleza;
   font-size: 50px;
   font-weight: 400;
@@ -9652,7 +9654,7 @@ body.rtl
 .elementor-37116
   .elementor-element.elementor-element-8395237
   .elementor-heading-title {
-  color: #272727;
+  color: #90091d;
   font-family: "Montserrat", belleza;
   font-size: 18px;
   font-weight: 400;
@@ -9679,7 +9681,7 @@ body.rtl
 .elementor-37116
   .elementor-element.elementor-element-3108ff7.elementor-view-stacked
   .elementor-icon {
-  background-color: #9d70be;
+  background-color: #097188;
 }
 .elementor-37116
   .elementor-element.elementor-element-3108ff7.elementor-view-framed
@@ -9687,8 +9689,8 @@ body.rtl
 .elementor-37116
   .elementor-element.elementor-element-3108ff7.elementor-view-default
   .elementor-icon {
-  color: #9d70be;
-  border-color: #9d70be;
+  color: #097188;
+  border-color: #097188;
 }
 .elementor-37116
   .elementor-element.elementor-element-3108ff7.elementor-view-framed
@@ -9704,7 +9706,7 @@ body.rtl
 }
 .elementor-37116 .elementor-element.elementor-element-12e16d1 {
   text-align: left;
-  color: #272727;
+  color: #90091d;
   font-family: "Montserrat", belleza;
   font-size: 18px;
   font-weight: 400;
@@ -9729,7 +9731,7 @@ body.rtl
 .elementor-37116
   .elementor-element.elementor-element-60c5683.elementor-view-stacked
   .elementor-icon {
-  background-color: #9d70be;
+  background-color: #097188;
 }
 .elementor-37116
   .elementor-element.elementor-element-60c5683.elementor-view-framed
@@ -9737,8 +9739,8 @@ body.rtl
 .elementor-37116
   .elementor-element.elementor-element-60c5683.elementor-view-default
   .elementor-icon {
-  color: #9d70be;
-  border-color: #9d70be;
+  color: #097188;
+  border-color: #097188;
 }
 .elementor-37116
   .elementor-element.elementor-element-60c5683.elementor-view-framed
@@ -9754,7 +9756,7 @@ body.rtl
 }
 .elementor-37116 .elementor-element.elementor-element-41c4eca {
   text-align: left;
-  color: #272727;
+  color: #90091d;
   font-family: "Montserrat", belleza;
   font-weight: 400;
   line-height: 1.8em;
@@ -9808,7 +9810,7 @@ body.rtl
   letter-spacing: 0px;
   fill: #ffffff;
   color: #ffffff;
-  background-color: #9d70be;
+  background-color: #097188;
   border-radius: 10px 10px 10px 10px;
   padding: 15px 45px 15px 45px;
 }
@@ -9884,7 +9886,7 @@ body.rtl
 .elementor-37116
   .elementor-element.elementor-element-2b6f572
   .elementor-heading-title {
-  color: #9d70be;
+  color: #90091d;
   font-family: "Dancing Script", belleza;
   font-size: 50px;
   font-weight: 400;
@@ -9930,7 +9932,7 @@ body.rtl
 .elementor-37116
   .elementor-element.elementor-element-e1e8f71.elementor-view-stacked
   .elementor-icon {
-  background-color: #9d70be;
+  background-color: #097188;
 }
 .elementor-37116
   .elementor-element.elementor-element-e1e8f71.elementor-view-framed
@@ -9938,8 +9940,8 @@ body.rtl
 .elementor-37116
   .elementor-element.elementor-element-e1e8f71.elementor-view-default
   .elementor-icon {
-  color: #9d70be;
-  border-color: #9d70be;
+  color: #097188;
+  border-color: #097188;
 }
 .elementor-37116
   .elementor-element.elementor-element-e1e8f71.elementor-view-framed
@@ -9980,7 +9982,7 @@ body.rtl
 .elementor-37116
   .elementor-element.elementor-element-58f7821.elementor-view-stacked
   .elementor-icon {
-  background-color: #9d70be;
+  background-color: #097188;
 }
 .elementor-37116
   .elementor-element.elementor-element-58f7821.elementor-view-framed
@@ -9988,8 +9990,8 @@ body.rtl
 .elementor-37116
   .elementor-element.elementor-element-58f7821.elementor-view-default
   .elementor-icon {
-  color: #9d70be;
-  border-color: #9d70be;
+  color: #097188;
+  border-color: #097188;
 }
 .elementor-37116
   .elementor-element.elementor-element-58f7821.elementor-view-framed
@@ -10060,7 +10062,7 @@ body.rtl
   letter-spacing: 0px;
   fill: #ffffff;
   color: #ffffff;
-  background-color: #9d70be;
+  background-color: #097188;
   border-radius: 10px 10px 10px 10px;
   padding: 15px 45px 15px 45px;
 }
@@ -10087,11 +10089,11 @@ body.rtl
 .elementor-37116
   .elementor-element.elementor-element-38d62863
   > .elementor-background-overlay {
-  background-image: url("https://invites-now.com/wp-content/uploads/2023/02/background-lila-destellos-3.png");
+  background-image: url("../6884914.jpg");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
-  opacity: 0.3;
+  opacity: 0.8;
   transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
 }
 .elementor-37116 .elementor-element.elementor-element-38d62863 {
@@ -10116,7 +10118,7 @@ body.rtl
 .elementor-37116
   .elementor-element.elementor-element-108f6682
   .elementor-heading-title {
-  color: #9d70be;
+  color: #90091d;
   font-family: "Dancing Script", belleza;
   font-size: 50px;
   font-weight: 400;
@@ -10136,7 +10138,7 @@ body.rtl
 .elementor-37116
   .elementor-element.elementor-element-f6b553f
   .elementor-heading-title {
-  color: #272727;
+  color: #90091d;
   font-family: "Montserrat", belleza;
   font-size: 18px;
 }
@@ -10190,7 +10192,7 @@ body.rtl
 .elementor-37116
   .elementor-element.elementor-element-d885298
   .elementor-heading-title {
-  color: #9d70be;
+  color: #90091d;
   font-family: "Dancing Script", belleza;
   font-size: 50px;
   font-weight: 400;
@@ -10321,11 +10323,11 @@ body.rtl
 .elementor-37116
   .elementor-element.elementor-element-e084cde
   > .elementor-background-overlay {
-  background-image: url("https://invites-now.com/wp-content/uploads/2023/02/background-lila-destellos-3.png");
+  background-image: url("../6884914.jpg");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
-  opacity: 0.3;
+  opacity: 0.8;
   transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
 }
 .elementor-37116 .elementor-element.elementor-element-e084cde {
@@ -10350,7 +10352,7 @@ body.rtl
 .elementor-37116
   .elementor-element.elementor-element-263c9d7
   .elementor-heading-title {
-  color: #9d70be;
+  color: #90091d;
   font-family: "Dancing Script", belleza;
   font-size: 50px;
   font-weight: 400;
@@ -10366,7 +10368,7 @@ body.rtl
 }
 .elementor-37116 .elementor-element.elementor-element-69f43ec {
   text-align: center;
-  color: #272727;
+  color: #90091d;
   font-family: "Montserrat", belleza;
   font-size: 18px;
 }
@@ -10418,7 +10420,7 @@ body.rtl
   letter-spacing: 0px;
   fill: #ffffff;
   color: #ffffff;
-  background-color: #9d70be;
+  background-color: #097188;
   border-radius: 10px 10px 10px 10px;
   padding: 15px 45px 15px 45px;
 }
@@ -10476,7 +10478,7 @@ body.rtl
   .elementor-element.elementor-element-cc4482e
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
-  background-image: url("https://invites-now.com/wp-content/uploads/2022/05/instagram_background_gradient_generated.jpg");
+  /* background-image: url("https://invites-now.com/wp-content/uploads/2022/05/instagram_background_gradient_generated.jpg"); */
   background-position: top center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -10611,7 +10613,7 @@ body.rtl
 .elementor-37116
   .elementor-element.elementor-element-f2cda88
   .elementor-heading-title {
-  color: #9d70be;
+  color: #90091d;
   font-family: "Dancing Script", belleza;
   font-size: 50px;
   font-weight: 400;
@@ -10642,7 +10644,7 @@ body.rtl
 .elementor-37116
   .elementor-element.elementor-element-ff39271
   .elementor-heading-title {
-  color: #9d70be;
+  color: #90091d;
   font-family: "Montserrat", belleza;
   font-size: 32px;
 }
@@ -10727,11 +10729,11 @@ body.rtl
 .elementor-37116
   .elementor-element.elementor-element-a00c88a
   > .elementor-background-overlay {
-  background-image: url("https://invites-now.com/wp-content/uploads/2023/02/background-lila-destellos-3.png");
+  background-image: url("../6884914.jpg");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
-  opacity: 0.3;
+  opacity: 0.8;
   transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
 }
 .elementor-37116 .elementor-element.elementor-element-a00c88a {
@@ -10797,7 +10799,7 @@ body.rtl
 .elementor-37116
   .elementor-element.elementor-element-8951255
   .elementor-heading-title {
-  color: #9d70be;
+  color: #90091d;
   font-family: "Dancing Script", belleza;
   font-size: 50px;
   font-weight: 400;
@@ -10812,7 +10814,7 @@ body.rtl
 }
 .elementor-37116 .elementor-element.elementor-element-1d9ab22 {
   text-align: left;
-  color: #272727;
+  color: #90091d;
   font-family: "Montserrat", belleza;
   font-size: 18px;
   font-weight: 400;
@@ -10843,7 +10845,8 @@ body.rtl
   > .elementor-widget-wrap
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
-  background-color: #e6dafa;
+  background-color: #094c90;
+  opacity: 0.8;
 }
 .elementor-37116
   .elementor-element.elementor-element-1e9f631
@@ -10878,13 +10881,17 @@ body.rtl
 .elementor-37116
   .elementor-element.elementor-element-8a78391
   .elementor-heading-title {
-  color: #000000;
+  color: #90091d;
   font-family: "Montserrat", belleza;
   font-size: 18px;
   text-transform: uppercase;
   font-style: normal;
   text-decoration: none;
   line-height: 1.3em;
+  font-weight: 400;
+}
+#sendButton {
+  background-color: #097188;
 }
 .elementor-37116
   .elementor-element.elementor-element-8a78391
@@ -10949,7 +10956,8 @@ body
   .elementor-element.elementor-element-15d3d50
   .elementor-field-subgroup
   label {
-  color: #000000;
+  color: #90091d;
+  font-weight: 550 !important;
 }
 .elementor-37116
   .elementor-element.elementor-element-15d3d50
@@ -11037,16 +11045,16 @@ body
 .elementor-37116
   .elementor-element.elementor-element-15d3d50
   .e-form__buttons__wrapper__button-next {
-  background-color: #9d70be;
+  background-color: #097188;
   color: #ffffff;
-  border-color: #9d70be;
+  border-color: #097188;
 }
 .elementor-37116
   .elementor-element.elementor-element-15d3d50
   .elementor-button[type="submit"] {
-  background-color: #9d70be;
+  background-color: #097188;
   color: #ffffff;
-  border-color: #9d70be;
+  border-color: #097188;
 }
 .elementor-37116
   .elementor-element.elementor-element-15d3d50
@@ -12320,6 +12328,20 @@ body.rtl .elementor-37116 .elementor-element.elementor-element-1727eb0 {
   .elementor-37116
     .elementor-element.elementor-element-1e9f631
     > .elementor-element-populated {
+      margin: 20px 10px 30px 10px;
+      padding: 0px 0px 0px 0px;
+    }
+    .elementor-bc-flex-widget
+      .elementor-37116
+      .elementor-element.elementor-element-1e9f631.elementor-column
+      .elementor-widget-wrap {
+      align-items: center;
+    }
+    .elementor-37116
+      .elementor-element.elementor-element-1e9f631.elementor-column.elementor-element[data-element_type="column"]
+      > .elementor-widget-wrap.elementor-element-populated {
+      align-content: center;
+      align-items: center;
     padding: 3em 1em 1em 1em;
   }
   .elementor-37116 .elementor-element.elementor-element-8a78391 {
@@ -15730,8 +15752,6 @@ div.um-modal .upload:hover {
     bottom: 0;
   }
 }
-.um .picker__box {
-}
 .um .picker__header {
   text-align: center;
   position: relative;
@@ -15913,10 +15933,6 @@ div.um-modal .upload:hover {
   text-align: center;
   padding: 5px 0 !important;
 }
-@media (min-height: 33.875em) {
-  .um .picker__weekday {
-  }
-}
 .um .picker__day {
   padding: 10px 0;
   line-height: 1em !important;
@@ -15932,24 +15948,15 @@ div.um-modal .upload:hover {
   border-radius: 2px;
   cursor: pointer;
 }
-.um .picker__day--highlighted {
-}
 .um .picker__day--highlighted:hover,
 .um .picker--focused .picker__day--highlighted {
   border-radius: 2px;
-}
-.um .picker__day--selected,
-.um .picker__day--selected:hover,
-.um .picker--focused .picker__day--selected {
 }
 .um .picker__day--disabled,
 .um .picker__day--disabled:hover {
   cursor: default;
   background: 0 0 !important;
   opacity: 0.3;
-}
-.um .picker__day--highlighted.picker__day--disabled,
-.um .picker__day--highlighted.picker__day--disabled:hover {
 }
 .um .picker__footer {
   text-align: center;
