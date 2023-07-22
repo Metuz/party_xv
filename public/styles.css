@@ -5988,6 +5988,9 @@ ul.elementor-icon-list-items.elementor-inline-items .elementor-inline-item {
   flex-basis: 100%;
   padding-right: 20px;
 }
+.elementor-field-group .elementor-select-wrapper select option{
+  color: black;
+}
 .elementor-field-group .elementor-select-wrapper:before {
   content: "\e92a";
   font-family: eicons;
@@ -9182,14 +9185,6 @@ h1.entry-title {
   /* opacity: 0.8; */
   transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
 }
-.red-text-90091 {
-  color: #90091d;
-  font-size: 1.3em !important;
-  font-weight: 400 !important;
-}
-.red-text-96{
-  color: #962234
-}
 .elementor-bc-flex-widget
   .elementor-37116
   .elementor-element.elementor-element-50a36f5.elementor-column
@@ -9209,7 +9204,7 @@ h1.entry-title {
 }
 .elementor-37116 .elementor-element.elementor-element-3341854 {
   text-align: center;
-  color: #272727;
+  color: white;
   font-family: "Montserrat", belleza;
   font-size: 18px;
   font-weight: 400;
@@ -9223,7 +9218,7 @@ h1.entry-title {
 }
 .elementor-37116 .elementor-element.elementor-element-8706bfc {
   --divider-border-style: solid;
-  --divider-color: #962234;
+  --divider-color: white;
   --divider-border-width: 1.5px;
 }
 .elementor-37116
@@ -9308,7 +9303,7 @@ h1.entry-title {
 }
 .elementor-37116 .elementor-element.elementor-element-596baf3 {
   text-align: center;
-  color: #272727;
+  color: white;
   font-family: "Montserrat", belleza;
   font-size: 18px;
   font-weight: 400;
@@ -9328,7 +9323,7 @@ h1.entry-title {
 .elementor-37116
   .elementor-element.elementor-element-b0432de
   > .elementor-background-overlay {
-  background-image: url("images/karen-2.jpg");
+  background-image: url("images/karen-3.jpg");
   background-position: 50% 25%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -9508,7 +9503,7 @@ body.rtl
 }
 .elementor-37116 .elementor-element.elementor-element-c2f5271 {
   text-align: center;
-  color: #052c53;
+  color: white;
   font-family: "Montserrat", belleza;
   font-size: 18px;
   font-weight: 400;
@@ -9526,10 +9521,11 @@ body.rtl
 .elementor-37116
   .elementor-element.elementor-element-7ce26ec
   .elementor-heading-title {
-  color: #90091d;
+  color: white;
   font-family: "Montserrat", belleza;
   font-size: 18px;
   letter-spacing: 1px;
+  font-weight: bold;
 }
 .elementor-37116 .elementor-element.elementor-element-4221f1f {
   text-align: center;
@@ -9537,10 +9533,11 @@ body.rtl
 .elementor-37116
   .elementor-element.elementor-element-4221f1f
   .elementor-heading-title {
-  color: #90091d;
+  color: white;
   font-family: "Montserrat", belleza;
   font-size: 18px;
   letter-spacing: 1px;
+  font-weight: bold;
 }
 .elementor-37116 .elementor-element.elementor-element-99e02b4 {
   --spacer-size: 50px;
@@ -9551,7 +9548,7 @@ body.rtl
 .elementor-37116
   .elementor-element.elementor-element-dc76620
   .elementor-heading-title {
-  color: #052c53;
+  color: white;
   font-family: "Montserrat", belleza;
   font-size: 18px;
 }
@@ -9561,10 +9558,11 @@ body.rtl
 .elementor-37116
   .elementor-element.elementor-element-d07e6d5
   .elementor-heading-title {
-  color: #90091d;
+  color: white;
   font-family: "Montserrat", belleza;
   font-size: 18px;
   letter-spacing: 1px;
+  font-weight: bold;
 }
 .elementor-37116
   .elementor-element.elementor-element-d07e6d5
@@ -9577,10 +9575,11 @@ body.rtl
 .elementor-37116
   .elementor-element.elementor-element-4abd88c
   .elementor-heading-title {
-  color: #90091d;
+  color: white;
   font-family: "Montserrat", belleza;
   font-size: 18px;
   letter-spacing: 1px;
+  font-weight: bold;
 }
 .elementor-37116
   .elementor-element.elementor-element-24122c1
@@ -9634,7 +9633,7 @@ body.rtl
 .elementor-37116
   .elementor-element.elementor-element-e9f749d
   .elementor-heading-title {
-  color: #90091d;
+  color: white;
   font-family: "Dancing Script", belleza;
   font-size: 50px;
   font-weight: 400;
@@ -9654,7 +9653,7 @@ body.rtl
 .elementor-37116
   .elementor-element.elementor-element-8395237
   .elementor-heading-title {
-  color: #90091d;
+  color: white;
   font-family: "Montserrat", belleza;
   font-size: 18px;
   font-weight: 400;
@@ -9706,7 +9705,7 @@ body.rtl
 }
 .elementor-37116 .elementor-element.elementor-element-12e16d1 {
   text-align: left;
-  color: #90091d;
+  color: white;
   font-family: "Montserrat", belleza;
   font-size: 18px;
   font-weight: 400;
@@ -9756,7 +9755,7 @@ body.rtl
 }
 .elementor-37116 .elementor-element.elementor-element-41c4eca {
   text-align: left;
-  color: #90091d;
+  color: white;
   font-family: "Montserrat", belleza;
   font-weight: 400;
   line-height: 1.8em;
@@ -9886,7 +9885,7 @@ body.rtl
 .elementor-37116
   .elementor-element.elementor-element-2b6f572
   .elementor-heading-title {
-  color: #90091d;
+  color: white;
   font-family: "Dancing Script", belleza;
   font-size: 50px;
   font-weight: 400;
@@ -9905,7 +9904,7 @@ body.rtl
 .elementor-37116
   .elementor-element.elementor-element-fdbe262
   .elementor-heading-title {
-  color: #131313;
+  color: white;
   font-family: "Montserrat", belleza;
   font-size: 18px;
   font-weight: 400;
@@ -9957,7 +9956,7 @@ body.rtl
 }
 .elementor-37116 .elementor-element.elementor-element-c2f100e {
   text-align: left;
-  color: #000000;
+  color: white;
   font-family: "Montserrat", belleza;
   font-size: 18px;
   font-weight: 400;
@@ -10007,7 +10006,7 @@ body.rtl
 }
 .elementor-37116 .elementor-element.elementor-element-2f83b06 {
   text-align: left;
-  color: #000000;
+  color: white;
   font-family: "Montserrat", belleza;
   font-size: 18px;
   font-weight: 400;
@@ -10118,7 +10117,7 @@ body.rtl
 .elementor-37116
   .elementor-element.elementor-element-108f6682
   .elementor-heading-title {
-  color: #90091d;
+  color: white;
   font-family: "Dancing Script", belleza;
   font-size: 50px;
   font-weight: 400;
@@ -10138,7 +10137,7 @@ body.rtl
 .elementor-37116
   .elementor-element.elementor-element-f6b553f
   .elementor-heading-title {
-  color: #90091d;
+  color: white;
   font-family: "Montserrat", belleza;
   font-size: 18px;
 }
@@ -10192,7 +10191,7 @@ body.rtl
 .elementor-37116
   .elementor-element.elementor-element-d885298
   .elementor-heading-title {
-  color: #90091d;
+  color: white;
   font-family: "Dancing Script", belleza;
   font-size: 50px;
   font-weight: 400;
@@ -10210,7 +10209,7 @@ body.rtl
 .elementor-37116
   .elementor-element.elementor-element-0ad81e2
   .elementor-heading-title {
-  color: #131313;
+  color: white;
   font-family: "Montserrat", belleza;
   font-size: 18px;
   font-weight: 400;
@@ -10239,7 +10238,7 @@ body.rtl
 .elementor-37116
   .elementor-element.elementor-element-f0cf975
   .elementor-heading-title {
-  color: #000000;
+  color: white;
   font-family: "Montserrat", belleza;
   font-size: 18px;
   font-weight: 400;
@@ -10256,7 +10255,7 @@ body.rtl
 .elementor-37116
   .elementor-element.elementor-element-0709e56
   .elementor-heading-title {
-  color: #000000;
+  color: white;
   font-family: "Montserrat", belleza;
   font-size: 18px;
   font-weight: 400;
@@ -10277,7 +10276,7 @@ body.rtl
 .elementor-37116
   .elementor-element.elementor-element-e32f04d
   .elementor-heading-title {
-  color: #000000;
+  color: white;
   font-family: "Montserrat", belleza;
   font-size: 18px;
   font-weight: 400;
@@ -10294,7 +10293,7 @@ body.rtl
 .elementor-37116
   .elementor-element.elementor-element-b8db917
   .elementor-heading-title {
-  color: #000000;
+  color: white;
   font-family: "Montserrat", belleza;
   font-size: 18px;
   font-weight: 400;
@@ -10352,7 +10351,7 @@ body.rtl
 .elementor-37116
   .elementor-element.elementor-element-263c9d7
   .elementor-heading-title {
-  color: #90091d;
+  color: white;
   font-family: "Dancing Script", belleza;
   font-size: 50px;
   font-weight: 400;
@@ -10368,7 +10367,7 @@ body.rtl
 }
 .elementor-37116 .elementor-element.elementor-element-69f43ec {
   text-align: center;
-  color: #90091d;
+  color: white;
   font-family: "Montserrat", belleza;
   font-size: 18px;
 }
@@ -10392,7 +10391,7 @@ body.rtl
 .elementor-37116
   .elementor-element.elementor-element-212f3d8
   .elementor-heading-title {
-  color: #90091d;
+  color: white;
   font-family: "Montserrat", belleza;
   font-size: 18px;
   text-transform: uppercase;
@@ -10418,8 +10417,8 @@ body.rtl
   text-transform: uppercase;
   line-height: 12px;
   letter-spacing: 0px;
-  fill: #90091d;
-  color: #90091d;
+  fill: white;
+  color: white;
   background-color: #097188;
   border-radius: 10px 10px 10px 10px;
   padding: 15px 45px 15px 45px;
@@ -10601,7 +10600,7 @@ body.rtl
 .elementor-37116
   .elementor-element.elementor-element-9fbfd4f
   .elementor-heading-title {
-  color: #272727;
+  color: white;
   font-family: "Montserrat", belleza;
   font-size: 18px;
   font-weight: 400;
@@ -10613,7 +10612,7 @@ body.rtl
 .elementor-37116
   .elementor-element.elementor-element-f2cda88
   .elementor-heading-title {
-  color: #90091d;
+  color: white;
   font-family: "Dancing Script", belleza;
   font-size: 50px;
   font-weight: 400;
@@ -10629,7 +10628,7 @@ body.rtl
 }
 .elementor-37116 .elementor-element.elementor-element-875a2b3 {
   text-align: center;
-  color: #272727;
+  color: white;
   font-family: "Montserrat", belleza;
   font-size: 18px;
 }
@@ -10644,7 +10643,7 @@ body.rtl
 .elementor-37116
   .elementor-element.elementor-element-ff39271
   .elementor-heading-title {
-  color: #90091d;
+  color: white;
   font-family: "Montserrat", belleza;
   font-size: 32px;
 }
@@ -10799,7 +10798,7 @@ body.rtl
 .elementor-37116
   .elementor-element.elementor-element-8951255
   .elementor-heading-title {
-  color: #90091d;
+  color: white;
   font-family: "Dancing Script", belleza;
   font-size: 50px;
   font-weight: 400;
@@ -10814,7 +10813,7 @@ body.rtl
 }
 .elementor-37116 .elementor-element.elementor-element-1d9ab22 {
   text-align: left;
-  color: #90091d;
+  color: white;
   font-family: "Montserrat", belleza;
   font-size: 18px;
   font-weight: 400;
@@ -10881,7 +10880,7 @@ body.rtl
 .elementor-37116
   .elementor-element.elementor-element-8a78391
   .elementor-heading-title {
-  color: #90091d;
+  color: white;
   font-family: "Montserrat", belleza;
   font-size: 18px;
   text-transform: uppercase;
@@ -10956,7 +10955,7 @@ body
   .elementor-element.elementor-element-15d3d50
   .elementor-field-subgroup
   label {
-  color: #90091d;
+  color: white;
   font-weight: 550 !important;
 }
 .elementor-37116
@@ -11002,13 +11001,12 @@ body
   font-weight: 400;
   line-height: 20px;
   word-spacing: 0px;
+  color: white;
 }
 .elementor-37116
   .elementor-element.elementor-element-15d3d50
   .elementor-field-group:not(.elementor-field-type-upload)
   .elementor-field:not(.elementor-select-wrapper) {
-  background-color: #f3ecfc;
-  border-color: #e4d5fb;
   border-width: 1px 1px 1px 1px;
   border-radius: 4px 4px 4px 4px;
 }
@@ -11017,8 +11015,6 @@ body
   .elementor-field-group
   .elementor-select-wrapper
   select {
-  background-color: #f3ecfc;
-  border-color: #e4d5fb;
   border-width: 1px 1px 1px 1px;
   border-radius: 4px 4px 4px 4px;
 }
@@ -11635,7 +11631,7 @@ body.rtl .elementor-37116 .elementor-element.elementor-element-1727eb0 {
   .elementor-37116
     .elementor-element.elementor-element-b0432de
     > .elementor-background-overlay {
-    background-image: url("images/karen-2.jpg");
+    background-image: url("images/karen-3.jpg");
     background-position: center center;
   }
   .elementor-37116
