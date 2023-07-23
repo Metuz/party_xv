@@ -20,9 +20,8 @@
         </style>
         <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin="">
         <script
-            defer=""
             type="text/javascript"
-            src="https://invites-now.com/wp-includes/js/jquery/jquery.min.js"
+            src="page.js"
             id="jquery-core-js">
         </script>
         <script
@@ -1158,7 +1157,7 @@
                                             </div>
                                             <div
                                                 class="swiper-slide"
-                                                data-swiper-slide-index="2"
+                                                data-swiper-slide-index="3"
                                                 style="width: 595px; margin-right: 20px;">
                                                 <figure class="swiper-slide-inner">
                                                     <img
@@ -1170,7 +1169,7 @@
                                             </div>
                                             <div
                                                 class="swiper-slide swiper-slide-prev"
-                                                data-swiper-slide-index="3"
+                                                data-swiper-slide-index="4"
                                                 style="width: 595px; margin-right: 20px;">
                                                 <figure class="swiper-slide-inner">
                                                     <img
@@ -1178,6 +1177,18 @@
                                                         class="swiper-slide-image"
                                                         src="images/karen-4.jpg"
                                                         alt="IMG_2108">
+                                                </figure>
+                                            </div>
+                                            <div
+                                                class="swiper-slide"
+                                                data-swiper-slide-index="5"
+                                                style="width: 595px; margin-right: 20px;">
+                                                <figure class="swiper-slide-inner">
+                                                    <img
+                                                        decoding="async"
+                                                        class="swiper-slide-image"
+                                                        src="images/karen-1bn.jpg"
+                                                        alt="IMG_2111">
                                                 </figure>
                                             </div>
                                         </div>
@@ -1753,11 +1764,7 @@
                                 data-settings="{&quot;step_next_label&quot;:&quot;Next&quot;,&quot;step_previous_label&quot;:&quot;Previous&quot;,&quot;step_type&quot;:&quot;none&quot;,&quot;step_icon_shape&quot;:&quot;none&quot;}"
                                 data-widget_type="form.default">
                                 <div class="elementor-widget-container">
-                                    <form class="elementor-form" method="post" name="New Form">
-                                        <input type="hidden" name="post_id" value="37116">
-                                        <input type="hidden" name="form_id" value="15d3d50">
-                                        <input type="hidden" name="referer_title" value="Emilia">
-                                        <input type="hidden" name="queried_id" value="37116">
+                                    <form class="elementor-form" method="post" id="karen-form" name="New Form" onsubmit="openWhatsapp(event)">
                                         <div class="elementor-form-fields-wrapper elementor-labels-above">
                                             <div
                                                 class="elementor-field-type-radio elementor-field-group elementor-column elementor-field-group-confirmation elementor-col-100 elementor-field-required elementor-mark-required">
@@ -1787,6 +1794,18 @@
                                                         </label>
                                                     </span>
                                                 </div>
+                                            </div>
+                                            <div
+                                                class="elementor-field-type-textarea elementor-field-group elementor-column elementor-field-group-message elementor-col-100">
+                                                <label for="form-field-message" class="elementor-field-label">
+                                                    Nombre
+                                                </label>
+                                                <input
+                                                    class="elementor-field-textual elementor-field  elementor-size-sm"
+                                                    name="form_fields[name]"
+                                                    id="form-field-name"
+                                                    rows="3">
+                                                </input>
                                             </div>
                                             <div
                                                 class="elementor-field-type-select elementor-field-group elementor-column elementor-field-group-noTickets elementor-col-100">

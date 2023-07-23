@@ -320,15 +320,8 @@
     font-display: swap;
     src: url("https://fonts.gstatic.com/s/tenorsans/v17/bx6ANxqUneKx06UkIXISn3V4Dw.ttf") format('truetype');
 }
-.um_request_name {
-    display: none !important;
-}
 html {
     font-size: 93.75%;
-}
-.page-title,
-a {
-    color: var(--ast-global-color-0);
 }
 a:focus,
 a:hover {
@@ -398,22 +391,6 @@ input[type=range]::-webkit-slider-thumb {
 .page-links > .page-link,
 .post-navigation a:hover {
     color: var(--ast-global-color-1);
-}
-#cat option,
-.secondary .calendar_wrap thead a,
-.secondary .calendar_wrap thead a:visited {
-    color: var(--ast-global-color-0);
-}
-.secondary .calendar_wrap #today {
-    background: var(--ast-global-color-0);
-}
-.secondary a:focus + .post-count,
-.secondary a:hover + .post-count {
-    background: var(--ast-global-color-0);
-    border-color: var(--ast-global-color-0);
-}
-.calendar_wrap #today > a {
-    color: #000000;
 }
 .page-links .page-link,
 .single .post-navigation a {
@@ -6255,7 +6232,7 @@ ul.elementor-icon-list-items.elementor-inline-items .elementor-inline-item {
   margin-right: 5px;
 }
 .elementor-message.elementor-message-danger {
-  color: #d9534f;
+  color: transparent;
 }
 .elementor-message.elementor-message-danger:before {
   content: "\e87f";
@@ -10572,7 +10549,7 @@ body.rtl
 }
 .elementor-37116 .elementor-element.elementor-element-1acd22c {
   --divider-border-style: solid;
-  --divider-color: #b990de;
+  --divider-color: white;
   --divider-border-width: 1.5px;
 }
 .elementor-37116
@@ -10655,7 +10632,7 @@ body.rtl
 }
 .elementor-37116 .elementor-element.elementor-element-373bd29 {
   --divider-border-style: solid;
-  --divider-color: #b990de;
+  --divider-color: white;
   --divider-border-width: 1.5px;
 }
 .elementor-37116
