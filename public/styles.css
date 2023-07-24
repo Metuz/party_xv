@@ -9143,16 +9143,6 @@ h1.entry-title {
   padding: 5% 0% 5% 0%;
 }
 .elementor-37116
-  .elementor-element.elementor-element-c37fd35:not(
-    .elementor-motion-effects-element-type-background
-  ),
-.elementor-37116
-  .elementor-element.elementor-element-c37fd35
-  > .elementor-motion-effects-container
-  > .elementor-motion-effects-layer {
-  background-color: #decdf8;
-}
-.elementor-37116
   .elementor-element.elementor-element-c37fd35
   > .elementor-background-overlay {
   background-image: url("images/6884914.jpg");
